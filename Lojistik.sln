@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lojistik.Core", "Lojistik.Core\Lojistik.Core.csproj", "{2268FD4E-F3F7-4F2E-84FF-9582B06CE5F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lojistik.UI", "Lojistik.UI\Lojistik.UI.csproj", "{0FB67679-5E64-4E31-B4CF-809908B2C3B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lojistik.Service", "Lojistik.Service\Lojistik.Service.csproj", "{D4842DE1-8577-4806-BC06-664DCB2D8769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2268FD4E-F3F7-4F2E-84FF-9582B06CE5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2268FD4E-F3F7-4F2E-84FF-9582B06CE5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2268FD4E-F3F7-4F2E-84FF-9582B06CE5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2268FD4E-F3F7-4F2E-84FF-9582B06CE5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FB67679-5E64-4E31-B4CF-809908B2C3B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB67679-5E64-4E31-B4CF-809908B2C3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB67679-5E64-4E31-B4CF-809908B2C3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB67679-5E64-4E31-B4CF-809908B2C3B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4842DE1-8577-4806-BC06-664DCB2D8769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4842DE1-8577-4806-BC06-664DCB2D8769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4842DE1-8577-4806-BC06-664DCB2D8769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4842DE1-8577-4806-BC06-664DCB2D8769}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D806F97E-B991-4C68-838E-1352296BE76E}
+	EndGlobalSection
+EndGlobal
